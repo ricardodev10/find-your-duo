@@ -4,14 +4,14 @@
 Full stack project developed during the NLW eSports week of [Rocketseat](https://www.rocketseat.com.br).
 
 
-## Demonstration
+## 💁🏻‍♂️ Demonstration
 
 <p align="center">
-<img src="assets/nlw-esports-demonstration.gif">
+<img src=".github/nlw-esports-demonstration.gif">
 </p>
 
 
-## Running locally
+## ▶️ Running locally
 
 Clone the project
 
@@ -34,38 +34,48 @@ install the dependencies
 ```
 
 
-## Learnings
+## 📚 Learnings
 
 Consolidating concepts with React and TypeScript, knowing TailwindCSS, ReactNative and several libraries used in this project.
 Advancing to the next level with these learnings.
 
 
-## Functionalities
+## ♻️ Functionalities
 
 - Find your duo
 - Ad listing
 - For games
 
 
-## Stack used
+## 🛠 Stack used
 
-**Front-end:** React, TypeScript, TailwindCSS.
+> Front-end: 
 
-**Back-end:** Node, Express.
+- React
+- TypeScript
+- TailwindCSS
 
-**Mobile:** ReactNative, Expo.
+> Back-end: 
+
+- Node
+- Express
+
+> Mobile
+
+- ReactNative
+- Expo
 
 
-## Improvements
+## 📈 Improvements
 
 Refactorings, performance and accessibility.
 
 
-## Feedback
+## 🙂 Feedback
 
 If you have any feedback, please send it to me at ricardodev10@yahoo.com
 
 
-## Author
+## 💛 Author
 
-- [@ricardodev10](https://www.github.com/ricardodev10)
+- [Ricardo Junior](https://www.linkedin.com/in/ricardodev10/)
