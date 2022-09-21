@@ -1,14 +1,18 @@
+# <center> <img src=".github/find-your-duo-logo.png"> </center>
 
-# Find your duo
+# <center> Find your duo </center>
+
 
 Full stack project developed during the NLW eSports week of [Rocketseat](https://www.rocketseat.com.br).
 
 
 ## 💁🏻‍♂️ Demonstration
 
-<p align="center">
-<img src=".github/nlw-esports-demonstration.gif">
-</p>
+<center><img src=".github/nlw-esports-demonstration.gif" /></center>
+
+## 📱 Mobile
+
+<center><img src=".github/find-your-duo-mobile.png" /></center>
 
 
 ## ▶️ Running locally
@@ -17,7 +21,7 @@ Clone the project
 
 ```bash
     https://github.com/ricardodev10/find-your-duo.git
-    ou
+
     git@github.com:ricardodev10/find-your-duo.git
 ```
 
@@ -47,23 +51,27 @@ Advancing to the next level with these learnings.
 - For games
 
 
-## 🛠 Stack used
+## 🛠 Tech stacks used
 
 > Front-end: 
 
-- React
-- TypeScript
-- TailwindCSS
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Radix UI](https://www.radix-ui.com/)
+- [Vite](https://vitejs.dev/)
 
 > Back-end: 
 
-- Node
-- Express
+- [Node](https://nodejs.org/en/)
+- [Express](https://www.npmjs.com/package/express)
+- [Prisma](https://www.prisma.io/express)
 
 > Mobile
 
-- ReactNative
-- Expo
+- [ReactNative](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [Phosphoricons](https://phosphoricons.com/)
 
 
 ## 📈 Improvements
