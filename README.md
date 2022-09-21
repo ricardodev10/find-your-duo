@@ -1,6 +1,6 @@
-# <center> <img src=".github/find-your-duo-logo.png"> </center>
+# <p align="center"><img src=".github/find-your-duo-logo.png"></p>
 
-# <center> Find your duo </center>
+# <p align="center"> Find your duo </p>
 
 
 Full stack project developed during the NLW eSports week of [Rocketseat](https://www.rocketseat.com.br).
@@ -8,11 +8,13 @@ Full stack project developed during the NLW eSports week of [Rocketseat](https:/
 
 ## 💁🏻‍♂️ Demonstration
 
-<center><img src=".github/nlw-esports-demonstration.gif" /></center>
+<p align="center">
+<img src=".github/nlw-esports-demonstration.gif" />
+</p>
 
 ## 📱 Mobile
 
-<center><img src=".github/find-your-duo-mobile.png" /></center>
+<p align="center"><img src=".github/find-your-duo-mobile.png" /></p>
 
 
 ## ▶️ Running locally
