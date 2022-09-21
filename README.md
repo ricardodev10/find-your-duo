@@ -6,14 +6,14 @@
 <p align="center">Full stack project developed during the NLW eSports week of <a href="https://www.rocketseat.com.br" target="_blank">Rocketseat</a></p>
 
 
-## 💁🏻‍♂️ Demonstration
+## <p align="center"> 💁🏻‍♂️ Demonstration </p>
 
-<img src=".github/nlw-esports-demonstration.gif" />
+<p align="center"><img src=".github/nlw-esports-demonstration.gif" /></p>
 
 
-## 📱 Mobile
+## <p align="center"> 📱 Mobile </p>
 
-<img src=".github/find-your-duo-mobile.png" />
+<p align="center"><img src=".github/find-your-duo-mobile.png" /></p>
 
 
 ## ▶️ Running locally
