@@ -15,7 +15,6 @@ Full stack project developed during the NLW eSports week of <a href="https://www
   <a href="#-functionalities">Functionalities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-improvements">Improvements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-feedback">Feedback</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-author">Author</a>
 </p>
@@ -100,12 +99,7 @@ Refactorings, performance and accessibility.
 
 ## 🎨 Layout
 
-You can view the layout of the project through [THIS LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). You need an account on [Figma](https://figma.com) to access it.
-
-
-## 🚀 Deploy
-
-https://spa-universe-ricardodev10.netlify.app/
+You can view the layout of the project through [THIS LINK](https://www.figma.com/file/eSUBGuTi8851UxdH2VY6eG/NLW-eSports-(Community)). You need an account on [Figma](https://figma.com) to access it.
 
 
 ## 🙂 Feedback
